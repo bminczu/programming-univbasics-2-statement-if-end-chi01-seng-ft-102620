@@ -1,3 +1,2 @@
-puts "You know what year it is cuuuz?"
-this_year= 2019
-puts "Hey, its 2019" if this_year==2015
+this_year=2019
+puts "Hey its not 2019!" ynless this_year==2019
