@@ -1,4 +1,4 @@
-chance_of_rain = 0.6
+chance_of_rain = 1
 puts "Lets go outside!"
 if chance_of_rain <= 0.25
   puts "Pack a sun shelter!"
