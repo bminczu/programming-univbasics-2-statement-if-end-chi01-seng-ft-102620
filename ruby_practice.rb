@@ -6,3 +6,4 @@ elsif (chnace_of_rain >0.25 && chance_of_rain<0.75)
   puts "Pack an umbrella!"
 else
 puts "Stay home bitch"
+end
